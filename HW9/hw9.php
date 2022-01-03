@@ -145,7 +145,7 @@ var_dump($sor4);
 echo "Time = " . ($send_time4 - $start_time4) . PHP_EOL;
 
 
-// Задание 2
+// Задание 2, 3
 
 
 function LinearSearch($arr, $num)
